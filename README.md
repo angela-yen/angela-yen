@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angela-yen
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Ruby on Rails
 - 💞️ I’m looking to collaborate on opensources 
 - 📫 How to reach me https://www.linkedin.com/in/angela-yen/ 
 - 📔 Checkout my personal portfolio https://angelayen.vercel.app/
